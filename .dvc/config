@@ -1,0 +1,4 @@
+[core]
+    remote = mine
+['remote "mine"']
+    url = /home/kur/dev/dvc-storage
